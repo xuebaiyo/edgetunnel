@@ -1,8 +1,7 @@
 # Recovered Repository
 
 The code in this repository was recovered from https://github.com/zizifn/edgetunnel and is unmaintained. The last time the repository was updated by the original author was May 19, 2023 at 11:41 AM PDT.
-
-The URL https://edgetunnel.114567.xyz/ for documentation no longer works. Please see archive.org [here]([https://web.archive.org/web/20230519160926/https://edgetunnel.114567.xyz/](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/xuebaiyo/edgetunnel/raw/main/doc/start.docx)) for an archived version.
+Please see [here]([https://web.archive.org/web/20230519160926/https://edgetunnel.114567.xyz/](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/xuebaiyo/edgetunnel/raw/main/doc/start.docx)) start use
 
 ------------------------------
 # Edge Tunnel（Beta）
